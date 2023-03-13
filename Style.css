@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: yellow;
+}
+
+.navbar{
+    background: brown;
+}
+
+.info b{
+    padding-right: 10px;
+    color: brown;
+}
+
+.info span{
+    font-size: 17px;
+}
+
+.btns{
+    background: brown;
+    color: yellow;
+    padding: 3px 11px;
+    font-size: 21px;
+    text-align: center;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+}
+
+
+
